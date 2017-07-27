@@ -12,3 +12,5 @@ gems:
   - jekyll-redirect-from
 
 # URL and baseurl set by Dockerfile
+
+theme: jekyll-theme-tactile
